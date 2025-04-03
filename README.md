@@ -65,3 +65,7 @@ docker exec -it <container_id> npm run seed
 ```plaintext
 /frontend   # React Vite frontend
 /backend    # NestJS backend
+```
+
+## **Demo**
+https://g-scores-frontend-coral.vercel.app/
